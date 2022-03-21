@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #c9b5ab;
   color: #222;
-  font-family: "PT Serif";
+  font-family: "PT Serif", serif;
   font-weight: normal;
   line-height: 1.5;
   font-style: normal;
@@ -17,13 +17,13 @@ img {
 }
 
 h1, h2 {
-  font-family: "PT Sans";
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   color: #3f1622;
 }
 
 a {
-  font-family: "PT Sans";
+  font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   list-style-type: none;
   font-weight: bold;
