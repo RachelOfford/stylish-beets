@@ -32,8 +32,6 @@ a {
 }
 
 a:hover {
-  box-sizing: border-box;
-  background-color: #c9b5ab;
   font-family: "PT Sans";
   font-size: .8rem;
   list-style-type: none;
