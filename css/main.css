@@ -32,8 +32,5 @@ a {
 }
 
 a:hover {
-  font-family: "PT Sans";
-  font-size: .8rem;
-  list-style-type: none;
-  text-decoration: none;
+  color: #3f1622;
 }
