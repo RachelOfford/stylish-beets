@@ -1,11 +1,10 @@
 html {
   box-sizing: border-box;
   background-color: #c9b5ab;
-  font-family: "PT serif";
+  font-family: "PT Serif";
   font-weight: normal;
   line-height: 1.5;
   font-style: normal;
-  font-size: 0.8rem;
 }
 
 *, *::before, *::after {
@@ -22,12 +21,13 @@ h1, h2 {
   color: #3f1622;
 }
 
-nav a {
+a {
   font-family: "PT Sans";
   font-size: 1.125rem;
   color: #8f2440;
+  text-decoration: none;
 }
 
-nav a:hover {
-
+a:hover {
+  text-decoration: none;
 }
