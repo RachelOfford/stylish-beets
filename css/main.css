@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  background-color: #c9b5ab;
+  font-family: PT Serif;
+  font-weight: normal;
+  line-height: 1.5;
+  font-style: normal;
+  font-size: 0.8rem;
+}
+
+h1, h2 {
+  font-family: PT Sans;
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
+nav ol li {
+  font-family: PT Sans;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
