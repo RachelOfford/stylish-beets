@@ -37,9 +37,3 @@ a:hover {
   list-style-type: none;
   text-decoration: none;
 }
-
-blockquote {
-  font-family: "PT Sans";
-  font-size: 1.5rem;
-  font-weight: italic;
-}
